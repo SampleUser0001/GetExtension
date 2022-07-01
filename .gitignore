@@ -1,1 +1,2 @@
-/bin
+/target/*
+!/target/GetExtension*jar-with-dependencies.jar
